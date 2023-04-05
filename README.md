@@ -1,0 +1,2 @@
+# RMQ
+Rabbit MQ application
